@@ -1,0 +1,9 @@
+.mega-menu > section.menu-list-items {
+    padding: 10px 0 !important;
+}
+#banner {
+    background: url(../images/slider_1.jpg);
+}
+.why-us.border-box {
+    border: 1px solid lightgray !important;
+}

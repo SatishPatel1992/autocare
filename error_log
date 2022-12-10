@@ -1,0 +1,7 @@
+[11-Jan-2021 07:08:29 UTC] PHP Notice:  Undefined variable: db in /home/rasbg2fxrm6a/public_html/redirect.php on line 6
+[30-Jul-2021 09:42:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'satishpatel1992'@'localhost' (using password: YES) in /home/mal7pe0y6zz1/public_html/backend/assets/Shortener.php:13
+Stack trace:
+#0 /home/mal7pe0y6zz1/public_html/backend/assets/Shortener.php(13): PDO->__construct('mysql:host=loca...', 'satishpatel1992', 'S@t!sh@123')
+#1 /home/mal7pe0y6zz1/public_html/redirect.php(6): Shortener->__construct()
+#2 {main}
+  thrown in /home/mal7pe0y6zz1/public_html/backend/assets/Shortener.php on line 13

@@ -1,0 +1,16 @@
+[08-Jan-2021 13:04:18 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 9
+[08-Jan-2021 13:04:18 UTC] PHP Notice:  Undefined variable: out in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 64
+[08-Jan-2021 13:07:43 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 9
+[08-Jan-2021 13:07:43 UTC] PHP Notice:  Undefined variable: out in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 64
+[08-Jan-2021 13:08:31 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 9
+[08-Jan-2021 13:08:31 UTC] PHP Notice:  Undefined variable: out in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 64
+[08-Jan-2021 13:11:10 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 9
+[08-Jan-2021 13:11:10 UTC] PHP Notice:  Undefined variable: out in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 64
+[09-Jan-2021 10:02:50 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 9
+[09-Jan-2021 10:02:50 UTC] PHP Notice:  Undefined variable: out in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 64
+[09-Jan-2021 10:05:35 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 9
+[09-Jan-2021 10:05:35 UTC] PHP Notice:  Undefined variable: out in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 64
+[09-Jan-2021 10:06:06 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 9
+[09-Jan-2021 10:06:06 UTC] PHP Notice:  Undefined variable: out in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 64
+[09-Jan-2021 10:36:13 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 9
+[09-Jan-2021 10:36:13 UTC] PHP Notice:  Undefined variable: out in /home/rasbg2fxrm6a/public_html/backend/assets/url_shortener/shorten.php on line 64

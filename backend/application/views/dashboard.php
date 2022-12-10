@@ -16,7 +16,7 @@
       <div class="card-counter primary">
         <i class="fa fa-rupee"></i>
         <span class="count-numbers total_recieve"><?php echo $summary['total_recieve']; ?></span>
-        <span class="count-name">Total Sale</span>
+        <span class="count-name">Total Sale's</span>
       </div>
     </div>
     <div class="col-md-4">
